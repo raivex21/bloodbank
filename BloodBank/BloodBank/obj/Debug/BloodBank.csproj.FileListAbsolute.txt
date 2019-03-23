@@ -1,0 +1,10 @@
+C:\Users\raivex\source\repos\BloodBank\BloodBank\bin\Debug\BloodBank.exe.config
+C:\Users\raivex\source\repos\BloodBank\BloodBank\bin\Debug\BloodBank.exe
+C:\Users\raivex\source\repos\BloodBank\BloodBank\bin\Debug\BloodBank.pdb
+C:\Users\raivex\source\repos\BloodBank\BloodBank\obj\Debug\BloodBank.csprojAssemblyReference.cache
+C:\Users\raivex\source\repos\BloodBank\BloodBank\obj\Debug\BloodBank.Form1.resources
+C:\Users\raivex\source\repos\BloodBank\BloodBank\obj\Debug\BloodBank.Properties.Resources.resources
+C:\Users\raivex\source\repos\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.GenerateResource.cache
+C:\Users\raivex\source\repos\BloodBank\BloodBank\obj\Debug\BloodBank.csproj.CoreCompileInputs.cache
+C:\Users\raivex\source\repos\BloodBank\BloodBank\obj\Debug\BloodBank.exe
+C:\Users\raivex\source\repos\BloodBank\BloodBank\obj\Debug\BloodBank.pdb
